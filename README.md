@@ -1,3 +1,6 @@
+Credit Card Customer Analysis Dashboard
+End-to-end data analytics project using SQL, Power BI, and DAX to analyze credit card transactions, customer demographics, revenue, and interest earnings through interactive dashboards.
+
 1.Cleaned and prepared the dataset using SQL
 2.Built an interactive dashboard in Power BI
 3.Used DAX functions for better grouping and deeper insights
